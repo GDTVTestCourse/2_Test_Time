@@ -1,37 +1,13 @@
 # Test Section
 
-### 1 Overview ###
+### 1 First Lecture, Section 3###
 
-+ Hello
-+ World
-+ Added to description
++ Hello 03x01
++ World 03x01
++ Added to description 03x01
 
-### 2 learning the test ###
+### 2 Second Lecture, Section 3###
 
-+ Hello
-+ World
-+ Added to description
-
-### 3 become the test ###
-
-+ Hello
-+ World
-+ Added to description
-
-### 4 forget about being a test ###
-
-+ Hello
-+ World
-+ Added to description
-
-### 5 never test again ###
-
-+ Hello
-+ World
-+ Added to description
-
-### 6 fade ###
-
-+ Hello
-+ World
-+ Added to description
++ Hello 03x02
++ World 03x02
++ Added to description  03x02
